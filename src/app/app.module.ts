@@ -10,13 +10,14 @@ import { AngularFireModule } from 'angularfire2';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 import { AngularFireAuthModule } from 'angularfire2/auth';
 
+// get config data from your firebase project
 export const firebaseConfig = {
-  apiKey: "AIzaSyDcGHtVjvKbIxpMFMhGBgXNE8j6QM498ZQ",
-  authDomain: "teste-bd-firebase.firebaseapp.com",
-  databaseURL: "https://teste-bd-firebase.firebaseio.com",
-  projectId: "teste-bd-firebase",
-  storageBucket: "teste-bd-firebase.appspot.com",
-  messagingSenderId: "667656575732"
+  apiKey: "zzzzzzzzzzzzzzzzzzzzzzz",
+  authDomain: "tzzzzzzzzzzzzzzz.firebaseapp.com",
+  databaseURL: "https://zzzzzzzzzzzzzzzzzzzz.firebaseio.com",
+  projectId: "zzzzzzzzzzzzzzzzzzz",
+  storageBucket: "zzzzzzzzzzzzzzzz.appspot.com",
+  messagingSenderId: "zzzzzzzzzzzzzzzzzzzzzzzzz"
 
 };
 
