@@ -15,6 +15,7 @@
 1. Realizar o deploy da aplicacao no telefone pelo ionic  `ionic cordova run adnroid --device`
 
 ---
+
 ## Atencao
 
-Caso seja utilizado apenas Javascript, verificar o seguinte [link](https://firebase.google.com/docs/web/setup?authuser=0 "Add Firebase to your JavaScript Project") no lugar dos passo 1, 2 e 3 acima.
+- Caso seja **nao** seja utilizado o Ionic com Typescript, ou seja, o projeto usara apenas Javascript, verificar o seguinte [link](https://firebase.google.com/docs/web/setup?authuser=0 "Add Firebase to your JavaScript Project") no lugar dos passo 1, 2 e 3 acima.
