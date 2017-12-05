@@ -1,9 +1,9 @@
-#Seguir os passos abaixo
+# Seguir os passos abaixo
 
-1. Possuir ionic e cordova instalados
-`npm i - ionic cordova`
+1. Possuir ionic e cordova instalados  
+`npm i -g ionic cordova`
 
-2. Instalar as dependencias do projeto
+2. Instalar as dependencias do projeto  
 `npm i`
 
 3. Criar um projeto no firebase
